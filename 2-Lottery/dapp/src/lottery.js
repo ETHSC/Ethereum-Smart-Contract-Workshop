@@ -1,7 +1,7 @@
 import web3 from "./web3";
 
 //address of the SC
-const address = "0xCa97eae9CFc4FF2a7eb16F621AF7D41506037d6a";
+const address = "0x6Fc854e1C00461AD81aE0bE7b593D868Cc1a4877";
 
 const abi = [
   {
